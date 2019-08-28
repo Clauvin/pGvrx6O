@@ -1,3 +1,11 @@
+Stuff to do if/when I decide to make my hands dirty and work on this:
+
+1 - Separate the fork from the BaseMod main one, so I can do issues again.
+2 - Understand AbstractWTF.
+3 - Proper save/load/clear of cards, so save and quitting don't result in full Madness deck as pointed by Vex.
+4 - Comb code for possible v1.1 bugs.
+5 - ??? Play more with it, I guess?
+
 
 IHDRO^µ°g.IDATxÚ¼ýi#I%>fQUfæGDdfeeWU÷õõÍ
 Í¯Ûß°´j?îÙKK=SÕÕGdx¸»¸TE÷
